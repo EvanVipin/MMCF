@@ -1,5 +1,5 @@
-# MMCF
+# Sample
 
-Modern Millennium Cultural Fest
+Just a sample project
 
-## The Modern Millennium Cultural Fest is being held in GMS <br>
+## Markdown document (?)
